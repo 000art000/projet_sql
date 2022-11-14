@@ -1,0 +1,29 @@
+name_port,localisation,country,categorie
+brest,west,FRANCE,2
+marseille,south,FRANCE,5
+la rochelle,west,FRANCE,2
+Barcelona,south,ESPAGNE,4
+Napoli,south,ITALIE,4
+Salerne,west,ITALIE,1
+London,south,ENGLAND,5
+Liverpool,north,ENGLAND,4
+Lisbonne,south,PORTUGAL,3
+Porto,north,PORTUGAL,3
+Dublin,ouest,IRLAND,1
+Oran,west,ALGERIA,5
+Alger,north,ALGERIA,5
+Annaba,ouest,ALGERIA,5
+Rabat,north,MAROC,1
+Casablanca,west,MAROC,1
+Elizabeth,south,SOUTH AFRICA,4
+Tunis,north,TUNISIA,2
+Los Angeles,west,UNITED STATE OF AMERICA,5
+New York,ouest,UNITED STATE OF AMERICA,5
+De satntos,ouest,BRAZIL,2
+Monreal,ouest,CANADA,3
+Santa Maria,west,PEROU,2
+Buenos Aires,ouest,ARGENTINA,3
+Yingkou ,ouest,CHINA,3
+Tianjin  ,north,CHINA,3
+Cochin,south,INDIA,2
+Novorossiysk ,west,RUSSIA,1

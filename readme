@@ -1,0 +1,25 @@
+group 105
+
+Binome:
+    TOUKAL Raouf 22117878
+    HABLAL Abdelhamid 22118316
+
+Contenance:
+    repetoire REQ il contient 20 fichiers des requetes
+    repertoire csv il contient les fichier csv des tables
+
+    fichier create_tables.sql c'est le script qui creer les tables
+    fichier copie_tables.sql c'est le script qui copy les données dans les tables
+    ficher version_approuvé.pdf version approuvé du schéma E/R
+    ficher version_initiale.pdf version initiale du schéma E/R
+    fichier req.sql contient tout les requetes
+
+pour exécuter il faut se placer dans la racine du repetoire et lancer psql 
+    puis il faut executer le fichier create_tables.sql avec \i create_tables.sql
+    puis il faut executer le fichier copie_tables.sql avec \i copie_tables.sql
+    puis lancer le fichier req.sql
+
+
+Les Données:
+    pour avoir une grande uqnatité de données on a generer les fichiers csv avec des script python
+    où on a gerer tout les contraintes 
